@@ -1,4 +1,8 @@
+## Contributors
 
+- [Bushra Nahl](https://github.com/nahlcodes) — Founder & Developer
+- [Seerat Fatima](https://github.com/seeratcodesxx) — Developer
+- [Zainab Asghar](https://github.com/USERNAME) — Developer
 # Contributing to OpenRelief 🌍
 
 Thank you for your interest in improving OpenRelief!
